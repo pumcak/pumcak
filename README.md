@@ -128,11 +128,11 @@ Parcours « Réalisation d'applications : conception, développement, validation
 </td>
 <td width="50%" valign="top">
 
-<a href="https://pumcak.github.io/portfolio/sae-2.html">
-  <img src="https://raw.githubusercontent.com/pumcak/portfolio/main/images/onitama-plateau.png" width="100%" alt="Onitama" />
+<a href="https://github.com/pumcak/onitama">
+  <img src="https://raw.githubusercontent.com/pumcak/onitama/main/docs/menu.png" width="100%" alt="Onitama" />
 </a>
 
-`🎮 Application bureau` &nbsp; **Onitama, SAÉ 2.01**
+`🎮 Application bureau` &nbsp; **[Onitama](https://github.com/pumcak/onitama)**, SAÉ 2.01
 
 Adaptation du jeu de plateau Onitama, en binôme sur 18 semaines : modélisation des classes, déplacements calculés à partir des cartes, alternance des tours et conditions de victoire, piloté avec user stories, wireframes et plans de tests.
 
@@ -226,7 +226,7 @@ Auvergne-Rhône-Alpes region. Reach me at [chabaltimeo@gmail.com](mailto:chabalt
 - **[Portfolio](https://github.com/pumcak/portfolio)** : hand-written personal site, no framework
   and no build step: light/dark theme, full French and English versions, Docker image and a CI
   pipeline that deploys it to the school's Kubernetes cluster.
-- **Onitama (academic project)** : desktop adaptation of the Onitama board game in C# / .NET MAUI,
+- **[Onitama](https://github.com/pumcak/onitama)** : desktop adaptation of the Onitama board game in C# / .NET MAUI,
   built in a pair over 18 weeks: class modelling, card-driven move generation, turn handling and
   win conditions, managed with user stories, wireframes and test plans.
 - **[Hevy Data Analyzer](https://github.com/pumcak/Hevy-Data-Analyzer)** : a webhook fired at the
