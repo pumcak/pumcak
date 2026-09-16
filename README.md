@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/banner.svg?v=1" width="100%" alt="Timéo Chabal, développement d'applications pour plateformes mobiles" />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/banner.svg?v=2" width="100%" alt="Timéo Chabal, développement d'applications pour plateformes mobiles" />
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=1" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=2" width="100%" alt="" />
 
 <br>
 
@@ -30,17 +30,17 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=1" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=2" width="100%" alt="" />
 
 <br>
 
 ## Stack
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/stack.svg?v=1" width="100%" alt="C, C#, JavaScript, Node.js, HTML5, CSS, SQL, Git, Bash et Linux acquis. .NET MAUI, XAML, C++, Docker, Next.js et Python en cours." />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/stack.svg?v=2" width="100%" alt="C, C#, JavaScript, Node.js, HTML5, CSS, SQL, Git, Bash et Linux acquis. .NET MAUI, XAML, C++, Docker, Next.js et Python en cours." />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=1" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=2" width="100%" alt="" />
 
 <br>
 
@@ -105,7 +105,7 @@ Un webhook déclenché à la fin de chaque séance de musculation : récupérati
 <td width="50%" valign="top">
 
 <a href="https://pumcak.github.io/portfolio/perso.html">
-  <img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/bot.svg?v=1" width="100%" alt="Bot Discord de modération" />
+  <img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/bot.svg?v=2" width="100%" alt="Bot Discord de modération" />
 </a>
 
 `🤖 Bot Discord` &nbsp; **Bot de modération**
@@ -124,7 +124,7 @@ Seul, en autonomie totale, sur un mois : commandes slash de modération, auto-mo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=1" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=2" width="100%" alt="" />
 
 <br>
 
@@ -181,6 +181,6 @@ Auvergne-Rhône-Alpes region. Reach me at [chabaltimeo@gmail.com](mailto:chabalt
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=1" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/pumcak/pumcak/main/assets/rule.svg?v=2" width="100%" alt="" />
 
 </div>
