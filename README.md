@@ -110,24 +110,37 @@ Parcours « Réalisation d'applications : conception, développement, validation
 <tr>
 <td width="50%" valign="top">
 
-`🌐 Site web`
-
 <a href="https://github.com/pumcak/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pumcak&repo=portfolio&bg_color=0f141b&title_color=c9a96a&text_color=9fabba&icon_color=c9a96a&border_color=2b3644" width="100%" alt="Portfolio" />
+  <img src="https://raw.githubusercontent.com/pumcak/portfolio/main/images/preview-home.png" width="100%" alt="Portfolio" />
 </a>
 
-Portfolio de BUT écrit et déployé à la main : HTML/CSS/JS sans framework, thème clair/sombre, version FR + EN, image Docker et CI de déploiement.
+`🌐 Site web` &nbsp; **[Portfolio](https://github.com/pumcak/portfolio)**
+
+Écrit et déployé à la main, sans framework ni build : thème clair/sombre, versions FR et EN, image Docker et CI qui déploie sur le cluster Kubernetes de l'IUT.
+
+<img src="https://img.shields.io/badge/HTML5-0f141b?style=flat-square&logo=html5&logoColor=c9a96a" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-0f141b?style=flat-square&logo=css&logoColor=c9a96a" alt="CSS" />
+<img src="https://img.shields.io/badge/JS-0f141b?style=flat-square&logo=javascript&logoColor=c9a96a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Docker-0f141b?style=flat-square&logo=docker&logoColor=c9a96a" alt="Docker" />
+
+[Site en ligne ↗](https://pumcak.github.io/portfolio/)
 
 </td>
 <td width="50%" valign="top">
 
-`🎮 Application bureau · C# / .NET MAUI`
+<a href="https://pumcak.github.io/portfolio/sae-2.html">
+  <img src="https://raw.githubusercontent.com/pumcak/portfolio/main/images/onitama-plateau.png" width="100%" alt="Onitama" />
+</a>
 
-**Onitama — SAÉ 2.01**
+`🎮 Application bureau` &nbsp; **Onitama — SAÉ 2.01**
 
-Adaptation du jeu de plateau Onitama en application bureau. 18 semaines en binôme, soit le plus long projet de mon cursus : modélisation des classes, calcul des déplacements à partir des cartes, alternance des tours et conditions de victoire, le tout piloté avec user stories, wireframes et plans de tests.
+Adaptation du jeu de plateau Onitama, en binôme sur 18 semaines : modélisation des classes, déplacements calculés à partir des cartes, alternance des tours et conditions de victoire, piloté avec user stories, wireframes et plans de tests.
 
-[Détail du projet sur le portfolio ↗](https://pumcak.github.io/portfolio/sae-2.html)
+<img src="https://img.shields.io/badge/C%23-0f141b?style=flat-square&logo=csharp&logoColor=c9a96a" alt="C#" />
+<img src="https://img.shields.io/badge/.NET_MAUI-0f141b?style=flat-square&logo=dotnet&logoColor=c9a96a" alt=".NET MAUI" />
+<img src="https://img.shields.io/badge/XAML-0f141b?style=flat-square&logo=xaml&logoColor=c9a96a" alt="XAML" />
+
+[Détail du projet ↗](https://pumcak.github.io/portfolio/sae-2.html)
 
 </td>
 </tr>
