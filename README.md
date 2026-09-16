@@ -144,6 +144,38 @@ Adaptation du jeu de plateau Onitama, en binôme sur 18 semaines : modélisation
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/pumcak/Hevy-Data-Analyzer">
+  <img src="https://raw.githubusercontent.com/pumcak/Hevy-Data-Analyzer/main/docs/dashboard.png" width="100%" alt="Hevy Data Analyzer" />
+</a>
+
+`⚙️ API & pipeline` &nbsp; **[Hevy Data Analyzer](https://github.com/pumcak/Hevy-Data-Analyzer)**
+
+Un webhook déclenché à la fin de chaque séance de musculation : récupération via l'API Hevy, calcul des métriques (volume, RPE, 1RM estimé), analyse par un modèle OpenAI contrainte à un JSON strict, puis restitution dans un tableau de bord.
+
+<img src="https://img.shields.io/badge/Node.js-0f141b?style=flat-square&logo=nodedotjs&logoColor=c9a96a" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0f141b?style=flat-square&logo=express&logoColor=c9a96a" alt="Express" />
+<img src="https://img.shields.io/badge/OpenAI-0f141b?style=flat-square&logo=openai&logoColor=c9a96a" alt="OpenAI" />
+
+</td>
+<td width="50%" valign="top">
+
+`🤖 Bot Discord`
+
+**Bot de modération**
+
+Seul, en autonomie totale, sur un mois : commandes slash de modération, auto-modération anti-spam et système de logs. Ni JavaScript, ni Node.js, ni les API REST n'étaient au programme du BUT — tout vient de la documentation officielle. En production sur un serveur actif.
+
+<img src="https://img.shields.io/badge/JavaScript-0f141b?style=flat-square&logo=javascript&logoColor=c9a96a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-0f141b?style=flat-square&logo=nodedotjs&logoColor=c9a96a" alt="Node.js" />
+<img src="https://img.shields.io/badge/discord.js-0f141b?style=flat-square&logo=discord&logoColor=c9a96a" alt="discord.js" />
+
+[Détail du projet ↗](https://pumcak.github.io/portfolio/perso.html)
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -197,6 +229,11 @@ Auvergne-Rhône-Alpes region. Reach me at [chabaltimeo@gmail.com](mailto:chabalt
 - **Onitama (academic project)** — desktop adaptation of the Onitama board game in C# / .NET MAUI,
   built in a pair over 18 weeks: class modelling, card-driven move generation, turn handling and
   win conditions, managed with user stories, wireframes and test plans.
+- **[Hevy Data Analyzer](https://github.com/pumcak/Hevy-Data-Analyzer)** — a webhook fired at the
+  end of every workout: fetches the session from the Hevy API, computes training metrics, asks an
+  OpenAI model for a strictly-typed JSON analysis and renders it on a dashboard.
+- **Discord moderation bot** — built alone in a month, in production on an active server: slash
+  commands, anti-spam auto-moderation and logging. None of the stack was taught in my degree.
 
 </details>
 
